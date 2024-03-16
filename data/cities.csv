@@ -109,25 +109,25 @@ Lusaka,21.5
 Livingstone,23.6
 Harare,21.0
 Bulawayo,21.8
-Kabul,-2.3
+Kabul,−2.3
 Baku,4.4
-Yerevan,-3.6
+Yerevan,−3.6
 Manama,17.2
 Dhaka,18.6
 Rangpur,16.3
 Chittagong,19.8
 Phnom Penh,26.6
-Beijing,-3.1
+Beijing,−3.1
 Changsha,4.9
 Chongqing,8.0
 Guangzhou,13.9
-Harbin,-17.6
+Harbin,−17.6
 Kunming,9.1
-Lhasa,-2.1
+Lhasa,−2.1
 Shanghai,4.6
-Ürümqi,-12.1
+Ürümqi,−12.1
 Xi'an,0.3
-Yinchuan,-7.9
+Yinchuan,−7.9
 Dili,27.7
 Batumi,6
 Tbilisi,1.2
@@ -148,45 +148,45 @@ Baghdad,9.7
 Erbil,6.2
 Tehran,4.7
 Ahvaz,12.3
-Tabriz,-1.7
+Tabriz,−1.7
 Jerusalem,9.8
 Tel Aviv,12.9
-Sapporo,-3.6
+Sapporo,−3.6
 Niigata,2.8
 Tokyo,5.2
 Kyoto,4.6
 Hiroshima,5.2
 Fukuoka,6.6
 Naha,17.0
-Almaty,-4.7
-Astana,-14.2
+Almaty,−4.7
+Astana,−14.2
 Kuwait City,12.5
-Bishkek,-2.6
+Bishkek,−2.6
 Vientiane,21.7
 Beirut,14.0
 Kuala Lumpur,26.9
 Malé,27.7
-Ulaanbaatar,-21.6
+Ulaanbaatar,−21.6
 Mandalay,21.9
 Yangon,25.0
 Kathmandu,10.0
-Pyongyang,-5.8
+Pyongyang,−5.8
 Muscat,21
 Karachi,18.1
 Lahore,12.8
 Manila,26.7
 Baguio,18.1
-Anadyr,-22.6
-Dikson,-24.8
-Irkutsk,-17.8
-Novosibirsk,-16.5
-Petropavlovsk-Kamchatsky,-7.6
-Vladivostok,-12.3
-Yakutsk,-38.6
+Anadyr,−22.6
+Dikson,−24.8
+Irkutsk,−17.8
+Novosibirsk,−16.5
+Petropavlovsk-Kamchatsky,−7.6
+Vladivostok,−12.3
+Yakutsk,−38.6
 Abha,13
 Riyadh,14
 Singapore,27
-Seoul,-2.4
+Seoul,−2.4
 Busan,3.6
 Colombo,26.6
 Damascus,6.1
@@ -197,7 +197,7 @@ Chiang Mai,21.5
 Hat Yai,26.0
 Nakhon Ratchasima,24.3
 Ankara,0.4
-Erzurum,-10.2
+Erzurum,−10.2
 İzmir,8.9
 Ashgabat,3.5
 Dubai,18.7
@@ -212,19 +212,19 @@ City,Jan
 Tirana,6.7
 Andorra la Vella,2.2
 Vienna,0.3
-Minsk,-4.5
+Minsk,−4.5
 Brussels,3.3
-Sarajevo,-0.5
-Sofia,-0.5
+Sarajevo,−0.5
+Sofia,−0.5
 Zagreb,0.3
 Split,8.0
 Nicosia,10.6
-Prague,-1.4
+Prague,−1.4
 Copenhagen,1.4
-Tallinn,-2.9
-Helsinki,-3.9
-Kuopio,-9.2
-Oulu,-9.6
+Tallinn,−2.9
+Helsinki,−3.9
+Kuopio,−9.2
+Oulu,−9.6
 Bordeaux,7.1
 Lyon,3.4
 Marseille,8.4
@@ -236,53 +236,53 @@ Athens,10.2
 Heraklion,12.1
 Thessaloniki,5.8
 Budapest,0.4
-Reykjavík,-0.5
+Reykjavík,−0.5
 Dublin,5.3
 Milan,2.5
 Palermo,12.5
 Rome,7.5
 Napoli,8.7
-Riga,-4.7
+Riga,−4.7
 Vaduz,0.8
-Vilnius,-6.1
+Vilnius,−6.1
 Luxembourg,0.8
 Valletta,12.8
-Chișinău,-1.9
+Chișinău,−1.9
 Monaco,10.2
 Podgorica,5.0
 Amsterdam,3.4
 Skopje,0.1
 Bergen,1.5
-Oslo,-4.3
-Tromsø,-3.8
-Kraków,-1.0
-Suwałki,-3.3
-Warsaw,-1.8
+Oslo,−4.3
+Tromsø,−3.8
+Kraków,−1.0
+Suwałki,−3.3
+Warsaw,−1.8
 Wrocław,0.0
 Lisbon,11.6
 Porto,10.2
-Bucharest,-1.3
-Arkhangelsk,-12.7
-Moscow,-6.5
-Murmansk,-10.1
-Rostov-on-Don,-3.0
-Saint Petersburg,-5.5
+Bucharest,−1.3
+Arkhangelsk,−12.7
+Moscow,−6.5
+Murmansk,−10.1
+Rostov-on-Don,−3.0
+Saint Petersburg,−5.5
 Sochi,6.1
 San Marino,2.7
 Belgrade,1.4
-Bratislava,-0.4
+Bratislava,−0.4
 Ljubljana,0.3
 Barcelona,11.8
 Bilbao,9.3
 Madrid,6.3
 Seville,11.0
 Valencia,11.8
-Stockholm,-2.8
+Stockholm,−2.8
 Zürich,0.3
 Istanbul,5.7
-Kyiv,-3.5
-Lviv,-3.1
-Odesa,-0.5
+Kyiv,−3.5
+Lviv,−3.1
+Odesa,−0.5
 Edinburgh,4.2
 London,5.2
 St. John's,25.4
@@ -291,21 +291,21 @@ Nassau,21.1
 Bridgetown,25.8
 Belize City,24.0
 Hamilton,18.3
-Calgary,-7.1
-Edmonton,-10.4
-Gjoa Haven,-33.8
-Halifax,-4.1
-Iqaluit,-26.9
-Moncton,-8.2
-Montreal,-9.7
-Ottawa,-10.2
-Saskatoon,-13.9
-St. John's,-4.5
-Toronto,-3.7
+Calgary,−7.1
+Edmonton,−10.4
+Gjoa Haven,−33.8
+Halifax,−4.1
+Iqaluit,−26.9
+Moncton,−8.2
+Montreal,−9.7
+Ottawa,−10.2
+Saskatoon,−13.9
+St. John's,−4.5
+Toronto,−3.7
 Vancouver,4.1
-Winnipeg,-16.4
-Whitehorse,-15.2
-Yellowknife,-25.6
+Winnipeg,−16.4
+Whitehorse,−15.2
+Yellowknife,−25.6
 George Town,25.8
 San José,22.6
 Havana,22.2
@@ -313,7 +313,7 @@ Willemstad,26.6
 Roseau,24.9
 Santo Domingo,24.4
 San Salvador,22.2
-Nuuk,-7.4
+Nuuk,−7.4
 Flores,23.0
 Guatemala City,17.7
 La Ceiba,23.8
@@ -333,53 +333,53 @@ Villahermosa,23.6
 Managua,26.3
 Panama City,28
 San Juan,25.3
-Saint-Pierre,-2.6
+Saint-Pierre,−2.6
 Albuquerque,2.4
-Anchorage,-8.3
+Anchorage,−8.3
 Atlanta,6.4
 Austin,10.8
 Baltimore,0.8
-Boise,-0.4
-Boston,-1.5
+Boise,−0.4
+Boston,−1.5
 Charlotte,5.1
-Chicago,-4.6
-Columbus,-1.6
+Chicago,−4.6
+Columbus,−1.6
 Dallas,7.7
-Denver,-0.3
-Detroit,-3.7
+Denver,−0.3
+Detroit,−3.7
 El Paso,7.3
-Fairbanks,-21.9
+Fairbanks,−21.9
 Fresno,8.1
 Houston,11.5
-Indianapolis,-2.2
+Indianapolis,−2.2
 Jacksonville,11.7
-Kansas City,-1.8
+Kansas City,−1.8
 Las Vegas,8.8
 Lake Havasu City,12.2
 Los Angeles,14.4
 Louisville,1.1
 Memphis,5.2
 Miami,19.9
-Milwaukee,-5.2
-Minneapolis,-9.1
+Milwaukee,−5.2
+Minneapolis,−9.1
 Nashville,3.4
 New Orleans,11.6
 New York City,0.6
 OklahomaCity,3.6
-Omaha,-4.6
+Omaha,−4.6
 Palm Springs,16.3
 Philadelphia,0.5
 Phoenix,13.6
-Pittsburgh,-1.9
+Pittsburgh,−1.9
 Portland (OR),5.2
 Sacramento,8.1
-Salt LakeCity,-1.3
+Salt LakeCity,−1.3
 San Antonio,11.0
 San Diego,14.2
 SanFrancisco,11.2
 San Jose,10.8
 Seattle,5.4
-St. Louis,-0.1
+St. Louis,−0.1
 Tampa,15.9
 Tucson,11.6
 VirginiaBeach,4.9
