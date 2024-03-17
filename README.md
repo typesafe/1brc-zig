@@ -17,3 +17,12 @@
   -> `scripts/generate_cities.sh`
 - [ ] Generate random input file
 - [ ] Process input file :-)
+
+## Tools, Resources and References
+
+- [List of cities by average temperature](https://en.wikipedia.org/wiki/List_of_cities_by_average_temperature)
+- [Wiki table converter](https://wikitable2csv.ggor.de/)
+- [DuckDB](https://duckdb.org): to process wiki data
+- https://zigcc.github.io/zig-cookbook/01-02-mmap-file.html
+- https://zig.guide/language-basics/vectors/
+- https://www.openmymind.net/SIMD-With-Zig/

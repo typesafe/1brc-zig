@@ -1,12 +1,15 @@
 const std = @import("std");
 
-// Rules: temp = non null double between -99.9 (inclusive) and 99.9 (inclusive), always with one fractional digit
-// i11 = 2^11 -> can hold -999 to 999
-pub inline fn parseTemp(chunk: []const u8) i11 {
+pub const TEMP = f32;
+
+// chunk starts after a ',' and can have 5 chars max: -99.9\n
+pub inline fn parseTemp(chunk: []const u8, offset: *usize) TEMP {
     var res: i11 = 0;
     var minus = false;
     var decimal = false;
-    for (chunk) |c| {
+    for (0..6) |_| {
+        const c = chunk[offset.*];
+        offset.* += 1;
         switch (c) {
             '-' => minus = true,
             '0'...'9' => {
@@ -14,7 +17,7 @@ pub inline fn parseTemp(chunk: []const u8) i11 {
                 res += c - '0';
             },
             '.' => decimal = true,
-            else => {}, // TODO: use unreachable when the input file has been cleaned up
+            else => break,
         }
     }
     if (!decimal) {
@@ -23,7 +26,7 @@ pub inline fn parseTemp(chunk: []const u8) i11 {
 
     res *= if (minus) -1 else 1;
 
-    return res;
+    return @as(TEMP, @floatFromInt(res));
 }
 
 test "parseTemp('99.9')" {
